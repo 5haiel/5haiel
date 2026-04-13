@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Shaiel
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Shaiel!)](https://git.io/typing-svg)
+
 
 I’m a Systems and Computing Engineering student at Universidad de los Andes in Bogotá, Colombia.
 
