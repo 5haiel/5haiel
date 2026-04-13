@@ -3,9 +3,7 @@
 
 I’m a Systems and Computing Engineering student at Universidad de los Andes in Bogotá, Colombia.
 
-I’m passionate about building full-stack applications, exploring artificial intelligence, and diving into cybersecurity. Through my academic and teaching experience, I’ve developed strong problem-solving skills, the ability to explain complex ideas clearly, and a collaborative mindset when working on team-based projects.
-
-I also have a solid foundation in data structures and algorithms, and I’ve worked as a teaching assistant, guiding students and supporting their learning process. These experiences have strengthened my communication skills, adaptability, and attention to detail.
+I’m passionate about building full-stack applications, exploring artificial intelligence, and diving into cybersecurity. Through my academic and teaching experience, I’ve developed strong problem-solving skills, the ability to explain complex ideas clearly, and a collaborative mindset when working on team-based projects. I also have a solid foundation in data structures and algorithms, and I’ve worked as a teaching assistant, guiding students and supporting their learning process. These experiences have strengthened my communication skills, adaptability, and attention to detail.
 
 Beyond coding, I’ve been actively involved in student initiatives through IEEE (Computer Society Student Chapter), contributing to planning, coordination, and the execution of tech-driven projects and community activities. Outside of tech, I enjoy going to the gym, listening to music, exploring new places, and trying out different kinds of food.
 
