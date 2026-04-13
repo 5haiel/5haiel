@@ -36,6 +36,7 @@ Beyond coding, I’ve been involved in student initiatives through IEEE (Compute
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Bash](https://skillicons.dev/icons?i=bash)
