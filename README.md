@@ -39,41 +39,16 @@ Beyond coding, I’ve been involved in student initiatives through IEEE (Compute
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=5haiel\&show_icons=true\&theme=tokyonight\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=5haiel\&show_icons=true\&theme=algolia\&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=5haiel\&layout=compact\&theme=tokyonight\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5haiel\&layout=compact\&theme=algolia\&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=5haiel\&theme=tokyonight\&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=5haiel\&theme=algolia\&hide_border=false)
 
 ---
 
 ## ✍️ Dev Quote
 
-<!-- OPTION 1: Random quote (automático) -->
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-<!-- OPTION 2: Quote fija (puedes elegir una) -->
-
-<!--
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
--->
-
-<!-- OPTION 3: Estilo minimalista -->
-
-<!--
-> Building, learning, and improving every day 🚀
--->
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=algolia&animation=default&layout=default&font=default&quoteType=random)
 
 ---
-
-## 🔝 Top Projects
-
-<!-- Puedes reemplazar con tus repos más importantes -->
-
-* 🚀 Mentorship Connect
-* 💡 More projects coming soon...
