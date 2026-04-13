@@ -44,6 +44,11 @@ Beyond coding, I’ve been involved in student initiatives through IEEE (Compute
 
 ---
 
+## 🎧 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=shaiel_05&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=0061ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 ## 🚀 Current Focus
 
 * 📚 Strengthening Data Structures & Algorithms
