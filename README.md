@@ -18,14 +18,25 @@ Beyond coding, I’ve been involved in student initiatives through IEEE (Compute
 ## 💻 Tech Stack
 
 ![Angular](https://skillicons.dev/icons?i=angular)
+![NextJS](https://skillicons.dev/icons?i=nextjs)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Python](https://skillicons.dev/icons?i=python)
+
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
 ![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Bash](https://skillicons.dev/icons?i=bash)
 
 ---
 
