@@ -19,9 +19,11 @@ Beyond coding, I’ve been involved in student initiatives through IEEE (Compute
 
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![NextJS](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Spring](https://skillicons.dev/icons?i=spring)
