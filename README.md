@@ -6,7 +6,7 @@ I’m passionate about building full-stack applications, exploring artificial in
 
 Beyond coding, I’ve been actively involved in student initiatives through IEEE (Computer Society Student Chapter), contributing to planning, coordination, and the execution of tech-driven projects and community activities. Outside of tech, I enjoy going to the gym, listening to music, exploring new places, and trying out different kinds of food.
 
-Feel free to connect or reach out — always happy to meet new people and collaborate 🚀
+Feel free to connect or reach out, always happy to meet new people and collaborate 🚀
 
 ---
 
