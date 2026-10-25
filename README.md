@@ -1,10 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Futura&size=30&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Shaiel!)](https://git.io/typing-svg)
 
-I’m a Systems and Computing Engineering student at Universidad de los Andes in Bogotá, Colombia.
+I'm a Systems and Computing Engineering student at Universidad de los Andes in Bogotá, Colombia.
 
-I’m passionate about building full-stack applications, exploring artificial intelligence, and diving into cybersecurity. Through my academic and teaching experience, I’ve developed strong problem-solving skills, the ability to explain complex ideas clearly, and a collaborative mindset when working on team-based projects. I also have a solid foundation in data structures and algorithms, and I’ve worked as a teaching assistant, guiding students and supporting their learning process. These experiences have strengthened my communication skills, adaptability, and attention to detail.
+I'm passionate about building full-stack applications, exploring artificial intelligence, and diving into cybersecurity. Lately that has meant developing the backend of a real-time presence app deployed in an actual university lab (NestJS, MySQL, Docker, SSO authentication), and building a retrieval-augmented generation system over Colombian law using a small open model, working on the legal corpus and ingestion pipeline. Along the way I've built a solid foundation in data structures and algorithms, which I've also taught as a teaching assistant, and that has strengthened my communication, adaptability, and attention to detail.
 
-Beyond coding, I’ve been actively involved in student initiatives through IEEE (Computer Society Student Chapter), contributing to planning, coordination, and the execution of tech-driven projects and community activities. Outside of tech, I enjoy going to the gym, listening to music, exploring new places, and trying out different kinds of food.
+Beyond coding, I'm the Vice chair of the IEEE Computer Society Student Chapter at my university, where I help plan and run tech-driven projects and community activities. Outside of tech, I enjoy going to the gym, listening to music, exploring new places, and trying out different kinds of food.
 
 Feel free to connect or reach out, always happy to meet new people and collaborate 🚀
 
@@ -13,7 +13,6 @@ Feel free to connect or reach out, always happy to meet new people and collabora
 ## 🌐 Connect with me
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shaiel-mateo-jimenez-posada/)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shaiel05/)
 
 ---
 
